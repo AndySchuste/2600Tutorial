@@ -21,4 +21,4 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 
 [Download Atom here](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
-![Atom logo](https://www.cleanpng.com/png-atom-text-editor-source-code-editor-visual-studio-2065688/)
+![Atom logo](https://mpng.pngfly.com/20180424/ojw/kisspng-atom-economy-computer-icons-text-editor-green-icon-5adfb773c52262.7027656015246109318075.jpg)
