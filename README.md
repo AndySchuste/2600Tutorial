@@ -17,4 +17,4 @@
 Any plain text editor can be used to use markdown. 
 Some plain text editors that are free include: 
 ###### ATOM
-[I'm an inline-style link with title](https://flight-manual.atom.io/getting-started/sections/installing-atom/" Link to ATOM Download")
+[atom link](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
