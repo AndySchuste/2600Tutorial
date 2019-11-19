@@ -28,4 +28,4 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 **These are just two examples. There are plenty of options out there, play around with a couple and find your favorites!**
 
 #### Markdown Cheatsheet
-###### <u>some text</u>
+###### Headings
