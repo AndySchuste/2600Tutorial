@@ -28,10 +28,4 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 **These are just two examples. There are plenty of options out there, play around with a couple and find your favorites!**
 
 #### Markdown Cheatsheet
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+(**"hi")
