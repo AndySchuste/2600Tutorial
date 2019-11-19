@@ -14,4 +14,4 @@
 4. Futureproof
 
 #### How to use Markdown?
-
+Any plain text editor can be used to use markdown. 
