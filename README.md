@@ -21,7 +21,7 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 
   [Download Atom here](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
-#### Visual Studio
+###### Visual Studio Code
 
   [Download Visual Studio Code here](https://code.visualstudio.com/)
 
