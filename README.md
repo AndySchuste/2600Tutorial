@@ -19,10 +19,10 @@ Some plain text editors that are free include:
 ##### -ATOM
 Atom is available for Linux, macOS, and Windows and is a programmer’s plain text editor that has the ability to preview markdown.
 
-[Download Atom here](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
+  [Download Atom here](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
-##### -Visual Studio
+##### Visual Studio
 
-[Download Visual Studio Code here](https://code.visualstudio.com/)
+  [Download Visual Studio Code here](https://code.visualstudio.com/)
 
 **These are just two examples. There are plenty of options out there, play around with a couple and find your favorites!**
