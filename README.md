@@ -1,2 +1,2 @@
 # 2600Tutorial
-##By: Andy Schuster
+## By: Andy Schuster
