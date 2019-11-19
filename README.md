@@ -12,4 +12,6 @@
 3. Used everywhere
 4. Futureproof
 
+![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+#### How to use Markdown?
 
