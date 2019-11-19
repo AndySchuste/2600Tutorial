@@ -16,11 +16,11 @@
 #### How to use Markdown?
 Any plain text editor can be used to use markdown. 
 Some plain text editors that are free include: 
-###### ATOM
+##### -ATOM
 Atom is available for Linux, macOS, and Windows and is a programmer’s plain text editor that has the ability to preview markdown.
 
 [Download Atom here](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
-###### Visual Studio
+##### -Visual Studio
 
-[Download Visual Studio Code here](https://code.visualstudio.com/ "Download")
+[Download Visual Studio Code here](https://code.visualstudio.com/)
