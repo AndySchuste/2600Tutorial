@@ -28,7 +28,7 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 ###### These are just two examples. There are plenty of options out there, play around with a couple and find your favorites!
 
 #### Markdown Cheatsheet 
-+ (These are just a few of many syntax elemets preset in markdown)
+- (These are just a few of many syntax elemets preset in markdown)
 +         # Heading 1
 # Heading 1
 +         ## Heading 2
