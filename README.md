@@ -37,21 +37,20 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 + Heading 4: ####
 #### Heading 4
 + Heading 5: #####
-##### Heading 5
+      ##### Heading 5
 + Heading 6: ######
-###### Heading 6
+    ###### Heading 6
 
 + Bold- ** Bold text **
 
-**Bold text**
+        **Bold text**
 
 + Italic-* italicized text *
 
-*italicized text*
+       *italicized text*
  
 + Scratch through text- ~~ scratch ~~
 
-~~Scratch~~
+      ~~Scratch~~
 
-Command +u njnjf
 
