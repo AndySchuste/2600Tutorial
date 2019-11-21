@@ -58,5 +58,6 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 
 ~~Scratch~~
 
-
+---
+#### A helpful video
 [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
