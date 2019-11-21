@@ -36,22 +36,22 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 ### Heading 3
     #### Heading 4
 #### Heading 4
-    ##### Heading 5
+    + ##### Heading 5
 ##### Heading 5
-    ###### Heading 6
+    + ###### Heading 6
 ###### Heading 6
 
-Bold- ** Bold text **
++ Bold- ** Bold text **
 
 **Bold text**
 
-Italic-* italicized text *
++ Italic-* italicized text *
 
 *italicized text*
  
-Scratch through text- ~~ scratch ~~
++ Scratch through text- ~~ scratch ~~
 
 ~~Scratch~~
 
-+ jemfkwef
+
 
