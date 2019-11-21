@@ -43,7 +43,6 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 (**""**): Two asterisks makes the font bold (remove parenthases)
 
    **Bold word**
-    *Italics*
 
 *Italics*
 
