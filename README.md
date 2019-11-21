@@ -59,4 +59,4 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 ~~Scratch~~
 
 
-[![IMAGE ALT TEXT HERE(https://www.youtube.com/watch?v=6A5EpqqDOdk)
+https://www.youtube.com/watch?v=6A5EpqqDOdk
