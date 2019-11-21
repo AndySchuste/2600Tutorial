@@ -28,17 +28,17 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 ###### These are just two examples. There are plenty of options out there, play around with a couple and find your favorites!
 
 #### Markdown Cheatsheet
-+ Heading 1:#
++         # Heading 1
 # Heading 1
-+ Heading 2: ##
++         ## Heading 2
 ## Heading 2
-+ Heading 3: ###
++         ### Heading 3
 ### Heading 3
-+ Heading 4: ####
++         ##### Heading 4
 #### Heading 4
-+ Heading 5: #####
++         ##### Heading 5
 ##### Heading 5
-+         ######Heading 6
++         ###### Heading 6
 ###### Heading 6
 
 + Bold- ** Bold text **
