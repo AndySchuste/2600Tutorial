@@ -40,7 +40,7 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 ##### Heading 5
 ######: Heading 6
 ###### Heading 6
-**""**: Makes Font bold
+(**""**): Two asterisks makes the font bold (remove parenthases 
 **Bold word**
 
 
