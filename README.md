@@ -51,6 +51,6 @@ Italic-* italicized text *
  
 Scratch through text- ~~ scratch ~~
 
-~~Scratch~
+~~Scratch~~
 
 
