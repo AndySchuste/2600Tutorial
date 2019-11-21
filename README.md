@@ -38,7 +38,7 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 #### Heading 4
 + Heading 5: #####
 ##### Heading 5
-+ ######Heading 6
++         ######Heading 6
 ###### Heading 6
 
 + Bold- ** Bold text **
