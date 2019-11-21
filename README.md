@@ -47,6 +47,6 @@ To do headings use the # sign and type something after it with a space
 
 (*""*): One asterisks make the text have italics
 
-*Italics*
+⋅⋅* *Italics*
 
 
