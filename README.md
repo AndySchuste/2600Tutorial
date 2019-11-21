@@ -35,10 +35,13 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 ###: Heading 3
 ### Heading 3
 ####: Heading 4
-
+#### Heading 4
 #####: Heading 5
+##### Heading 5
 ######: Heading 6
+###### Heading 6
 *""*: Makes Font bold
+*Bold word*
 
 
 
