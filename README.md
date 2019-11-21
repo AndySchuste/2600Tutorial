@@ -48,6 +48,8 @@ Bold- ** Bold text **
 Italic-* italicized text *
 
 *italicized text*
-
+ 
+Scratch through text- ~~ scratch ~~
+~~Scratch~
 
 
