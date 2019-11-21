@@ -28,7 +28,6 @@ Atom is available for Linux, macOS, and Windows and is a programmer’s plain te
 ###### These are just two examples. There are plenty of options out there, play around with a couple and find your favorites!
 
 #### Markdown Cheatsheet
-To do headings use the # sign and type something after it with a space
     # Heading 1
 # Heading 1
     ## Heading 2
