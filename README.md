@@ -43,10 +43,10 @@ To do headings use the # sign and type something after it with a space
 ###### Heading 6
 (**""**): Two asterisks makes the font bold (remove parenthases)
 
-    **Bold word**
+   **Bold word**
 
 (*""*): One asterisks make the text have italics
 
-    *Italics*
+   *Italics*
 
 
